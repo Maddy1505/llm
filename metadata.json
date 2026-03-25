@@ -1,0 +1,5 @@
+{
+  "name": "DocMind",
+  "description": "A production-ready full-stack multi-tenant SaaS application for document Q&A.",
+  "requestFramePermissions": []
+}
